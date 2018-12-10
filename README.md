@@ -1,2 +1,2 @@
 # ClassNotes
-Notes for courses in NJU
+Notes for courses in NJU & some books.
